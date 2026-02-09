@@ -36,7 +36,7 @@ API: Telegram Web Apps API.
 QA & Stability: Integrated validation logic for overlapping periods and cycle consistency.
 
 5. Team Experience
-Lead Developer / QA: Сергей, Senior/Middle QA Automation Engineer.
+Lead Developer / QA: Sergei, Senior/Middle QA Automation Engineer.
 
 Focus: The project is built with a "test-first" mentality, ensuring high stability, performance optimization, and rigorous data validation.
 
